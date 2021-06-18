@@ -1,0 +1,9 @@
+
+public class parsear_String {
+
+	public static void main(String[] args) {
+		String text = "hla que tal, bienvenidos a BettaTech. SI os está gustando este vídeo y darle a la campanita para ver los nuevos vídeos que vaya subiendo!";
+
+	}
+
+}

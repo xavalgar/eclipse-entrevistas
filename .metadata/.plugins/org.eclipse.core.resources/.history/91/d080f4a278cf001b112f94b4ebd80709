@@ -1,0 +1,13 @@
+
+public class ejercicio3 {
+
+	public static void main(String[] args) {
+		String s = "aab";
+		//? puede aparecer una vez o ninguna
+		// xyz$ pilla todo lo que termine en xyz
+		//por lo que una o ninuna vez 
+		System.out.println(s.matches("(? $)a*b*"));
+
+	}
+
+}
